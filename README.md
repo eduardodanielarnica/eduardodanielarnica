@@ -36,9 +36,11 @@ Actualmente continúo profundizando mi formación en **Ciencia de Datos**, aplic
 
 #### 📉 [Abandono Escolar en Argentina](https://github.com/eduardodanielarnica/abandono-escolar-argentina)
 
-[![Dashboard Abandono Escolar en Argentina](dashboard-abandono-escolar.png)](https://github.com/eduardodanielarnica/abandono-escolar-argentina)
+<a href="https://github.com/eduardodanielarnica/abandono-escolar-argentina">
+  <img src="https://raw.githubusercontent.com/eduardodanielarnica/eduardodanielarnica/principal/tablero-abandono-escolar.jpeg" width="750" alt="Dashboard Abandono Escolar en Argentina">
+</a>
 
-Análisis y visualización interactiva de la **Tasa de Abandono Interanual en Argentina**, desarrollado con **R y Shiny**.
+Proyecto de análisis y visualización interactiva de la **Tasa de Abandono Interanual en Argentina**, desarrollado con **R y Shiny**.
 
 El proyecto permite explorar la evolución del abandono escolar mediante visualizaciones y filtros interactivos.
 
