@@ -20,11 +20,17 @@ Actualmente continúo profundizando mi formación en **Ciencia de Datos**, aplic
 
 ### 🛠️ Herramientas
 
-**R · Shiny · ggplot2 · Plotly · SQL · ATLAS.ti**
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Shiny](https://img.shields.io/badge/Shiny-276DC3?style=for-the-badge&logo=rstudio&logoColor=white)
+![ggplot2](https://img.shields.io/badge/ggplot2-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![ATLAS.ti](https://img.shields.io/badge/ATLAS.ti-555555?style=for-the-badge)
 
-Actualmente profundizando en:
+**Actualmente profundizando en:**
 
-**Python · Machine Learning**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-En%20formación-orange?style=for-the-badge)
 
 ### 🚀 Proyectos destacados
 
